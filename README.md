@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Choudhury</h1>
-<h3 align="center">Results-oriented data and transformation leader with 18+ years of experience specializing in data-driven growth and fostering data-first cultures.</h3>
+<h3 align="center">I build the data and AI foundations that companies need to compete. Over 20+ years leading data engineering, analytics, governance, and AI initiatives across Fortune 500 and high-growth environments, I have consistently translated complex business problems into scalable technology solutions. From standing up enterprise GenAI policies and AI subcommittees to deploying modern data platforms and agentic workflows, I bring both the strategic vision and hands-on leadership to move organizations from data-aware to AI-driven.</h3>
 
 - 📫 How to reach me **gaurav.choudhury@outlook.com**
 
